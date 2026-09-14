@@ -1,0 +1,9 @@
+{
+  "name": "ecorota-101-bun-api",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "bun --watch run index.ts",
+    "start": "bun run index.ts"
+  }
+}
